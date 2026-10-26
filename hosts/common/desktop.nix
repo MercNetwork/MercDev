@@ -5,6 +5,7 @@
   boot.loader.systemd-boot.enable = true;
   boot.loader.efi.canTouchEfiVariables = true;
   boot.kernelPackages = pkgs.linuxPackages_latest;
+  services.gnome.gnome-keyring.enable = true;
 
   networking.networkmanager.enable = true;
 
