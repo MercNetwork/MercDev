@@ -84,6 +84,7 @@
     unrar
     discord
     popsicle
+    spotify
     firefox
     android-tools
   ];
