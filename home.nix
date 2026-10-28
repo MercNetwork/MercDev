@@ -140,7 +140,7 @@ in {
     enable = true;
     extensions = [ "nix" "rust" "dart" "toml" "json" "yaml" ];
     userSettings = {
-      theme = "One Dark";
+      theme = "Ayu Dark";
       ui_font_size = 16;
       buffer_font_size = 14;
       languages = {
